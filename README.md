@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm M.Adrik Manzela</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F59E0B&width=435&lines=I+am+a+Student+at+SMK+Syafi'i+Akrom)](https://git.io/typing-svg)
+
 - 🌱 I’m currently learning **codeigniter**
 
 - 📫 How to reach me **manzel841@gmail.com**
